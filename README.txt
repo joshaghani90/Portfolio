@@ -119,7 +119,7 @@
 							</section>
 							<section>
 								<h3>Email</h3>
-								<p><a href="#">joshaghani@tamu.edu</a></p>
+								<p><a href="#">arjjosh@gmail.com</a></p>
 							</section>
 							<section>
 								<h3>Social</h3>
